@@ -14,12 +14,12 @@
     "id": "Soup",
     "name": "Chicken Soup",
     "price": 50,
-    "veg": true,
+    "veg": false,
     "spicy": 1,
     "category": "CHICKEN MENU",
     "image": "https://t4.ftcdn.net/jpg/15/61/24/05/360_F_1561240504_nZmmKAgCevNbfT72e8wokiByD7GwJ2qH.jpg",
     "available": true,
-    "description": "soup ."
+    "description": "Schezwan chicken soup with egg "
   },
   {
     "id": "chk-lolly-pop-h",
