@@ -1,4 +1,26 @@
 [
+   {
+    "id": "paneer-chilli",
+    "name": "Paneer Chilli",
+    "price": 120,
+    "veg": true,
+    "spicy": 1,
+    "category": "VEG MENU",
+    "image": "https://img.magnific.com/premium-photo/chilli-paneer-dry-is-made-using-cottage-cheese-indo-chinese-food_466689-76934.jpg?semt=ais_test_b&w=740&q=80",
+    "available": true,
+    "description": "Paneer stired with veggies and sauce."
+  },
+  {
+    "id": "Soup",
+    "name": "Chicken Soup",
+    "price": 50,
+    "veg": true,
+    "spicy": 1,
+    "category": "CHICKEN MENU",
+    "image": "https://t4.ftcdn.net/jpg/15/61/24/05/360_F_1561240504_nZmmKAgCevNbfT72e8wokiByD7GwJ2qH.jpg",
+    "available": true,
+    "description": "soup ."
+  },
   {
     "id": "chk-lolly-pop-h",
     "name": "Chicken Lolly Pop (2 Piece)",
@@ -192,6 +214,28 @@
     "image": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8126143/Pop_s_Double_Stuffed__Double_Fluffed_American_Omelet.jpg?quality=90&strip=all&crop=0,27.755803550407,100,44.488392899185&w=2400",
     "available": true,
     "description": "Fluffy double egg omelet, lightly spiced."
+  },
+     {
+    "id": "Fries",
+    "name": "Fries",
+    "price": 90,
+    "veg": true,
+    "spicy": 0,
+    "category": "VEG MENU",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG",
+    "available": true,
+    "description": "Fries with peri peri ."
+  },
+  {
+    "id": "Soup",
+    "name": "Veg Soup",
+    "price": 40,
+    "veg": true,
+    "spicy": 0,
+    "category": "VEG MENU",
+    "image": "https://t4.ftcdn.net/jpg/15/61/24/05/360_F_1561240504_nZmmKAgCevNbfT72e8wokiByD7GwJ2qH.jpg",
+    "available": true,
+    "description": "soup ."
   },
   {
     "id": "egg-omelet-single",
